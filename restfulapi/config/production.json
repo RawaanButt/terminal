@@ -1,0 +1,4 @@
+{
+  "db": "mongodb+srv://dbUser:dbUser@cluster0.ex0on.mongodb.net/labterminal?retryWrites=true&w=majority",
+  "jwtPrivateKey": "SomePrivateKey"
+}
